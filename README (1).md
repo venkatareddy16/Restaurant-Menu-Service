@@ -6,7 +6,6 @@ A REST API built with **Java, Spring Boot, Spring Data JPA, and MySQL** to manag
 
 - Java 25
 - Spring Boot 4.1.2
-- Spring Web MVC
 - Spring Data JPA / Hibernate
 - MySQL
 - Maven
